@@ -20,10 +20,10 @@ This Python program is a multi-client chat application built with Python 3.11. I
    - Ensure you have Python 3.11 or later installed on your system.
 
 2. **Server Setup**:
-   - Run the server script (typically named `server.py`) on a machine with a static IP address. The server will listen for incoming client connections.
+   - Run the server script (typically named `chatserver.py`) on a machine with a static IP address. The server will listen for incoming client connections.
 
 3. **Client Setup**:
-   - Run the client script (typically named `client.py`) on the machines from which you want to connect. The clients should provide the server's IP address to connect to the chatroom.
+   - Run the client script (typically named `chatclient.py`) on the machines from which you want to connect. The clients should provide the server's IP address to connect to the chatroom.
 
 4. **Join the Chatroom**:
    - Clients can specify a username when connecting. Once connected, they can send and receive messages within the chatroom.
