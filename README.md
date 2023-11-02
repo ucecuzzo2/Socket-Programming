@@ -1,23 +1,14 @@
+Certainly, here's the updated README with the requested change:
+
+```markdown
 # Multi-Client Chat Application with Python
 
 This Python program is a multi-client chat application built with Python 3.11. It establishes a TCP connection using sockets to enable real-time, text-based communication in a shared chatroom. Clients can connect, exchange messages, and even share files with one another within the chatroom. This README provides an overview of the program, its features, and instructions for usage.
 
-## Features
-
-- **Client-Server Architecture**: The program follows a client-server model. One instance acts as the server, while multiple clients can connect to it to engage in chat.
-
-- **TCP Socket Connection**: The application utilizes Python's socket library to establish and maintain TCP connections between the server and clients.
-
-- **Chatroom**: Clients can join a shared chatroom, exchange text messages, and participate in group conversations.
-
-- **Real-Time Messaging**: Messages are delivered in real-time, allowing users to have fluid conversations.
-
-- **File Sharing**: In addition to text messaging, clients can share files with one another within the chatroom, facilitating document sharing and collaboration.
-
 ## Usage Instructions
 
-1. **Environment Setup**:
-   - Ensure you have Python 3.11 or later installed on your system.
+1. **Running the Program**:
+   - Before proceeding with any other steps, ensure you have Python 3.11 or later installed on your system.
 
 2. **Server Setup**:
    - Run the server script via Terminal (typically named `chatserver.py`) on a machine with a static IP address. The server will listen for incoming client connections.
@@ -45,8 +36,9 @@ This Python program is a multi-client chat application built with Python 3.11. I
 
 - Security considerations are essential. It's recommended to use secure connections and authentication mechanisms if deploying this application in a real-world environment.
 
-
-
 ---
 
-Thank you for using this Multi-Client Chat Application !!
+Thank you for using this Multi-Client Chat Application! We hope it provides an interactive and collaborative platform for communication and file sharing. If you have any questions or need assistance, please refer to the documentation or contact the project maintainers.
+```
+
+This update places the "Running the Program" step at the top of the usage instructions.
