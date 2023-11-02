@@ -28,4 +28,4 @@ This Python program is a multi-client chat application built with Python 3.11. I
 
 ---
 
-Thank you for using this Multi-Client Chat Application. We hope it provides an interactive and collaborative platform for communication and file sharing. If you have any questions or need assistance, please refer to the documentation or contact the project maintainers.
+Thank you for using this Multi-Client Chat Application !!
